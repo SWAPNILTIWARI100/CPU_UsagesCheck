@@ -57,22 +57,17 @@ C:\QT\Resource.log
 
 Console Output:
 
-![Console Output](https://github.com/user-attachments/assets/2222f97a-7026-47e5-ba7f-4eed55596b51)
+![Console Output] 
 
 
 
-API Response:
+![Screenshot 2025-05-06 021821](https://github.com/user-attachments/assets/00e4ae83-a6a3-4996-bece-3a2149a71c61)
+![Screenshot 2025-05-06 021812](https://github.com/user-attachments/assets/a7750b5a-62e4-4760-a0c5-b6de2af15ef6)
+![Screenshot 2025-05-06 021601](https://github.com/user-attachments/assets/8bef76f2-5948-45cb-b237-c057f4264a0e)
+![Screenshot 2025-05-06 021408](https://github.com/user-attachments/assets/445c6fa8-d8f5-40b1-b947-aadac7d93cf7)
+![Screenshot 2025-05-06 020725](https://github.com/user-attachments/assets/d44177bf-580d-4b63-bc9a-03bf9e3959d8)
+![Screenshot 2025-05-06 022117](https://github.com/user-attachments/assets/dc0592d5-8f30-439f-b27d-6ee6629c0505)
 
-![API Response](https://github.com/user-attachments/assets/54033bf2-97c9-4b6b-a682-62ee0495e006)
-
-
-
-Log File:
-
-![Log File](https://github.com/user-attachments/assets/f10b1112-c8e6-425e-949e-209912c4bcbd)
-![Log Path](https://github.com/user-attachments/assets/00ef9b4f-9c22-4a9c-ac31-60ec76287b1a)
-
----
 
 For any additional details, refer to the code or contact me via Linkdin @tiwariswapnil100 (https://www.linkedin.com/in/tiwariswapnil100/)
 
